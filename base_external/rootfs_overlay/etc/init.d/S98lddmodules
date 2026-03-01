@@ -3,8 +3,8 @@
 case "$1" in
     start)
         echo "Loading scull, fault and helloworld driver"
-        scull_load.sh
-        module_load.sh faulty
+        /usr/bin/scull_load.sh
+        /usr/bin/module_load.sh faulty
         modprobe hello
         ;;
     stop)
