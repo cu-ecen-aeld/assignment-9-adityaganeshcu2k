@@ -1,4 +1,4 @@
-config BR2_PACKAGE_AESD_CJAR
+config BR2_PACKAGE_AESDCHAR
     bool "aesd-char"
     help
       Includes the aesd-char device in kernel
