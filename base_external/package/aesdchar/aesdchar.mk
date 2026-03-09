@@ -5,7 +5,7 @@
 ##############################################################
 $(info AESD-CHAR .mk file is being  by Buildroot!)
 
-AESDCHAR_VERSION = 1333a64798b9adf96bfefc63b22e67068b0c0413
+AESDCHAR_VERSION = 1c6a153e62f4f2b9bc834409259ba3508a194e43
 AESDCHAR_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-adityaganeshcu2k.git
 AESDCHAR_SITE_METHOD = git
 AESDCHAR_GIT_SUBMODULES = YES
